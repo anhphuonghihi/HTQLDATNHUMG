@@ -1,0 +1,60 @@
+body {
+  font: 400 17px "Roboto", Arial, Tahoma, Times;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.f_comment {
+  padding-top: 1px;
+  width: 100%;
+  background-color: rgb(249, 237, 224);
+}
+.f1_comment {
+  font-weight: bolder;
+  background-color: #2fa4e7;
+}
+.f2_comment {
+  padding: 10px;
+  font-weight: 540;
+  display: flex;
+  @media (max-width: 800px) {
+    flex-direction: column;
+    textarea{
+      width: inherit;
+    }
+    }
+}
+.name,
+input {
+  height: 36px;
+  padding: 4px;
+  outline: 2px solid #e8e8e8;
+  border-radius: 10px;
+  font-size: 15px;
+  margin: 0 10px;
+  resize: none;
+  border: 2px solid #e8e8e8;
+}
+button {
+  background-color: red;
+  padding: 10px 50px;
+  margin: 20px;
+  border: 2px solid #e8e8e8;
+  color: aliceblue;
+  font-weight: bold;
+}
+.full_ht-nd{
+  display: flex;
+  background-color: rgb(249, 237, 224);
+  padding:10px 20px;
+}
+.ht{
+  flex: 1;
+  display: flex;
+  align-items: center;
+
+}
+.nd{
+  flex:4;
+}
+.small{
+  font-size: 14px;
+}

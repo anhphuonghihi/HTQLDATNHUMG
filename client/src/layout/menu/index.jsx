@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 
 const Menu = () => {
-    const student = true;
+    const student = false;
     const teacher = false;
     const object = false;
     const admin = false;
