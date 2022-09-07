@@ -67,5 +67,10 @@
   "News": "News",
   "Notice": "Notice",
   "UserManual": "User Manual",
-  "forgotPassword": "Forgot Password ?"
+  "forgotPassword": "Forgot Password ?",
+  "comment":"COMMENT",
+  "hoten":"Full Name :",
+  "msv":"Student code :",
+  "nd":"Comment :",
+  "sb":"Send"
 }

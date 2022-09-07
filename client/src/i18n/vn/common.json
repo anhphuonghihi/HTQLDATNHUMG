@@ -68,6 +68,11 @@
     "News": "Tin tức",
     "Notice": "Thông báo",
     "UserManual": "Hướng dẫn",
-    "forgotPassword": "Quên mật khẩu ?"
+    "forgotPassword": "Quên mật khẩu ?",
+    "comment":"BÌNH LUẬN",
+  "hoten":"Họ và tên :",
+  "msv":"Mã sinh viên :",
+  "nd":"Bình luận :",
+  "sb":"Gửi"
 }
 
